@@ -1,10 +1,8 @@
-# ofx-supplemental
-
 <p align="center">
-  <img width="50%" height="50%" src="https://i.pinimg.com/originals/c0/0a/0f/c00a0f2556d78284dc3b23a8df6b5dc5.png"/>  
+  <img width="75%" height="75%" src="https://github.com/cskonopka/ofx-supplemental/blob/main/img/ofx-supplemental.png?raw=true"/>  
 </p>
 
-A collection of video experiments in small examples
+<p align="center"><em>A collection of openFrameworks video experiments.</em></p> 
 
 
 # Examples
